@@ -19,3 +19,7 @@ Finally, you can use the following options to access the files:</br>
 </ul>
 <img src="Pictures/9.png" alt="Voting"></br></br>
 </p>
+
+Please help us to improve this dataset by sending your comments.</br>
+Speech Procesing labratory link (SPRL): http://ele.aut.ac.ir/~sprl/</br>
+Link: a.a.rahmati.r.r@gmail.com</br>
