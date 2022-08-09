@@ -23,5 +23,5 @@ Finally, you can use the following options to access the files:</br>
 </p>
 
 Please help us to improve this dataset by sending your comments.</br>
-Speech Procesing labratory link (SPRL): http://ele.aut.ac.ir/~sprl/</br>
+Signal and speech Processing Research Lab (SPRL) link: http://ele.aut.ac.ir/~sprl/</br>
 Reports link: a.a.rahmati.r.r@gmail.com</br>
