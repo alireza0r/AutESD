@@ -4,7 +4,7 @@ In this section, we provide information about the emotional speech dataset of Am
 
 <p>
 <h1>Application</h1></br>
-After installing the program (the program requires framework 4.6) and running it, you can enter the program with the username of the good person. Of course, the default program is set to the local database, which you have to download files from the database github folder and add it to the program (after Unrar). </br>
+After installing the program (the program requires framework 4.6) and running it, you can enter the program with the username of the good person. Of course, the default program is set to the local database, which you have to download files from the github's "Database" folder and unrar them and using them to add the program. </br>
 <img src="Pictures/2.PNG" alt="AddUser"></br></br>
 <img src="Pictures/3.PNG" alt="Add database folder"></br></br>
 
@@ -22,4 +22,4 @@ Finally, you can use the following options to access the files:</br>
 
 Please help us to improve this dataset by sending your comments.</br>
 Speech Procesing labratory link (SPRL): http://ele.aut.ac.ir/~sprl/</br>
-Link: a.a.rahmati.r.r@gmail.com</br>
+Reports link: a.a.rahmati.r.r@gmail.com</br>
