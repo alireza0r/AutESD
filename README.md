@@ -9,8 +9,9 @@ The default AutESD program is set to the local database, which you have to downl
 <img src="Pictures/2.PNG" alt="AddUser"></br></br>
 <img src="Pictures/3.PNG" alt="Add database folder"></br></br>
 
-After entry, by playing a audio file, you will be allowed to vote it, and after voting, the "Apply/Next" option will be activated and you can continue to vote for other files. and also, you can click "Save/Close" to exit the program.</br>
-<img src="Pictures/5.PNG" alt="Voting"></br></br>
+After entry, by playing each audio file, you will be allowed to vote it, and after voting, the "Apply/Next" option will be activated and you can continue to vote for other files. and also, you can click "Save/Close" to exit the program.</br>
+<img src="Pictures/5.PNG" alt="Voting"></br>
+According to above image you have two options, "Strong Emotion" and "Weak Emotion. If you think the file has two emotions please use them to display both emotions</br></br>
 
 Finally, you can use the following options to access the files:</br>
 <ul>
