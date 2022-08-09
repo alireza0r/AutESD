@@ -17,5 +17,5 @@ Finally, you can use the following options to access the files:</br>
 <li> "Tools->Export to Excel" Save votes of all users.
 <li> "Tools->Export to Zip" Save votes and information of all users.
 </ul>
-<img src="Pictures/8.png" alt="Voting"></br></br>
+<img src="Pictures/9.png" alt="Voting"></br></br>
 </p>
