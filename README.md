@@ -5,11 +5,11 @@ In this section, we provide information about the emotional speech dataset of Am
 <p>
 <h1>Application</h1></br>
 After installing the program (the program requires framework 4.6) and running it, you can enter the program with your username.</br>
-The default AutESD program is set to the local database, which you have to download files from the github's "Database" folder and unrar for using in AutESD program. </br>
+The default AutESD program is set to the local database, which you have to download files from the github's "Database" folder and unrar for using them in AutESD program. </br>
 <img src="Pictures/2.PNG" alt="AddUser"></br></br>
 <img src="Pictures/3.PNG" alt="Add database folder"></br></br>
 
-After entry, by playing any audio file, you will be allowed to vote for it, and after voting, the "next" option will be activated and you can continue to vote for other files. and also, you can click "Save/Close" to exit the program.</br>
+After entry, by playing a audio file, you will be allowed to vote it, and after voting, the "Apply/Next" option will be activated and you can continue to vote for other files. and also, you can click "Save/Close" to exit the program.</br>
 <img src="Pictures/5.PNG" alt="Voting"></br></br>
 
 Finally, you can use the following options to access the files:</br>
