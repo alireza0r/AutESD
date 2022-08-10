@@ -25,5 +25,5 @@ Finally, you can use the following options to access the files:</br>
 Please help us to improve this dataset by sending your comments.</br>
 Connect us with:</br>
 Signal and speech Processing Research Lab (SPRL) link: http://ele.aut.ac.ir/~sprl/</br>
-Reports Emails: Z.sharifzadeh.j@gmail.com</br>
-Reports Emails: a.a.rahmati.r.r@gmail.com</br>
+Reports Email: Z.sharifzadeh.j@gmail.com</br>
+Reports Email: a.a.rahmati.r.r@gmail.com</br>
