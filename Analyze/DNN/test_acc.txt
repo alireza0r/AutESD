@@ -1,0 +1,29 @@
+fold 0
+Val Accuracy: 71.42857142857143 %
+Epoch [200/200], last Loss: 0.9954
+Test Accuracy: 76.92307692307692 %
+
+fold 1
+Val Accuracy: 73.46938775510205 %
+Epoch [200/200], last Loss: 0.9912
+Test Accuracy: 69.23076923076923 %
+
+fold 2
+Val Accuracy: 72.01166180758017 %
+Epoch [200/200], last Loss: 1.0167
+Test Accuracy: 73.42657342657343 %
+
+fold 3
+Val Accuracy: 76.0932944606414 %
+Epoch [200/200], last Loss: 1.0072
+Test Accuracy: 72.28070175438596 %
+
+fold 4
+Val Accuracy: 71.42857142857143 %
+Epoch [200/200], last Loss: 0.9685
+Test Accuracy: 67.71929824561404 %
+
+total
+val: mean:	72.88, var:	3.13212, std: 1.76
+test: mean:	71.91, var:	10.46, std: 3.23
+
